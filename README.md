@@ -8,7 +8,7 @@
 ## Tecnologías usadas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind, react,vite, git,github" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,vite,git,github" />
   </a>
 </p>
 
